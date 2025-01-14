@@ -7,6 +7,8 @@ namespace al
         VERBOSE,
         INFO,
         WARNING,
-        FATAL
+        FATAL,
+        LOGO,
+        NOTIFY
     };
 }
